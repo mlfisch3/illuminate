@@ -1,0 +1,9 @@
+channels:
+        - conda-forge
+        - fastai
+
+dependencies:
+        - streamlit==1.0.0
+        - opencv-python-headless
+        - matplotlib
+        - numpy

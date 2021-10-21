@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from matplotlib import image as img
 import streamlit as st
-from PIL import Image
+#from PIL import Image
 
 def run_app():
 
