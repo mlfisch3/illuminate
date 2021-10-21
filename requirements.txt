@@ -1,0 +1,7 @@
+libopencv==4.5.1
+opencv==4.5.1
+py-opencv==4.5.1
+streamlit==1.0.0
+pillow==8.3.2
+numpy==1.19.5
+matplotlib-base==3.4.3
