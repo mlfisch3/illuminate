@@ -1,4 +1,4 @@
-opencv
+opencv-python
 streamlit==1.0.0
 pillow
 numpy
