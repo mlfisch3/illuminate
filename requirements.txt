@@ -1,5 +1,5 @@
-opencv-contrib-python==4.5.5
+opencv
 streamlit==1.0.0
-pillow==8.3.2
-numpy==1.21.3
-matplotlib==3.4.3
+pillow
+numpy
+matplotlib
